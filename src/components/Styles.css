@@ -1,0 +1,41 @@
+.App {
+  align-items: center;
+  background-color: #345c7f;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.box-body{
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 100px;
+
+}
+.box-sections{
+  display: flex;
+  flex-direction: column;
+}
+.text-box{
+  margin-bottom: 40px;
+}
+.primary-text{
+  font-size: medium;
+  font-weight: 700;
+  text-align: center;
+}
+
+.main-button {
+  margin: 10px 0px;
+}
+.shoppping-list-box{
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  padding: 20px;
+  width: 1000px;
+}
+.head-list-text{
+  text-align: center;
+  margin-bottom: 50px;
+}
